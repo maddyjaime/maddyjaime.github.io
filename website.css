@@ -1,6 +1,6 @@
 *{
-  font-size: 20px;
   background-color: lightblue;
+  style= "font-family:courier;"
 }
 
 div {
@@ -16,6 +16,7 @@ div {
 #train{
   margin-left: 20px;
   margin-right: 20px;
+  font-size: 20px;
 }
 
 #top {
@@ -37,8 +38,21 @@ div {
   margin-left: 20px;
   list-style-position: inside;
   margin-right: 20px;
+  font-size: 20px;
 }
 #drop{
   margin-left: 20px;
   margin-right: 20px;
+}
+
+#places{
+  font-size: 20px;
+}
+
+#facts{
+  font-size: 20px;
+}
+
+#resources{
+  font-size: 20px;
 }
